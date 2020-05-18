@@ -4,7 +4,7 @@ body  {
   default;
 }
 /**链接指针样式**/
-a   &:hover { 
-    cursor: url('https://cdn.jsdelivr.net/gh/belial-beast/blogtc/img/link.cur'),
+a:hover {
+  cursor: url(https://cdn.jsdelivr.net/gh/belial-beast/blogtc/img/link.cur),
   pointer;
 }
