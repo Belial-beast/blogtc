@@ -9,7 +9,7 @@
      }
      else {
          $('[rel="icon"]').attr('href', "/favicon.ico");
-         document.title = 'Destiny 2 ~' + OriginTitle;
+         document.title = '阿巴阿巴阿巴 ~' + OriginTitle;
          titleTime = setTimeout(function () {
              document.title = OriginTitle;
          }, 2000);
