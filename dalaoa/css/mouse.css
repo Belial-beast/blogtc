@@ -1,7 +1,10 @@
 /**普通指针样式**/
-body 
-  cursor url('https://cdn.jsdelivr.net/gh/belial-beast/blogtc/img/pointer.cur'),default
+body  {
+  cursor: url(https://cdn.jsdelivr.net/gh/belial-beast/blogtc/img/pointer.cur),
+  default;
+}
 /**链接指针样式**/
-a 
-  &:hover 
-    cursor url('https://cdn.jsdelivr.net/gh/belial-beast/blogtc/img/link.cur'),pointer
+a   &:hover { 
+    cursor: url('https://cdn.jsdelivr.net/gh/belial-beast/blogtc/img/link.cur'),
+  pointer;
+}
